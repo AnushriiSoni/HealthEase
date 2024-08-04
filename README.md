@@ -20,7 +20,7 @@ Welcome to our Government Hospital Online Appointment Booking Website project! T
 
 ## Contributors
 
-Anushri Soni
+Anushri Soni, Ashutosh Dubey, Aman Sharma
 
 ## Feedback and Support
 
